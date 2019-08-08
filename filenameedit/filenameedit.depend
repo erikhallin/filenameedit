@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549014237 source:e:\cpp\filenameedit\filenameedit\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<dirent.h>
+
